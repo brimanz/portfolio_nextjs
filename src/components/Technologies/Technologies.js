@@ -31,7 +31,7 @@ const Technologies = () =>  (
           <DiCodepen size="4rem"/>
           <ListTitle>Blockchain</ListTitle>
           <ListParagraph>
-            Solid experience with: <br/>
+            Some experience with: <br/>
             Solidity, Truffle, Hardhat
           </ListParagraph>          
         </ListContainer>
