@@ -42,4 +42,5 @@ export const TimeLineData = [
   { year: 2020, text: 'Finish my service in the Navy', },
   { year: 2020, text: 'Started my journey as Freelance Web Developer', },
   { year: 2021, text: 'Started as Collaborator in IdForIdeas', },
+  { year: 2022, text: 'Finish my journey as Collaborator in IdForIdeas', },
 ];
